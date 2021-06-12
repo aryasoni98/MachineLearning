@@ -1,6 +1,4 @@
-# Machine Learning
-
-Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+![MachineLearning](https://socialify.git.ci/aryasoni98/MachineLearning/image?description=1&language=1&owner=1&theme=Light)
 
 - Part 1 - [Data Preprocessing](https://github.com/aryasoni98/Machine-Learning/tree/main/Data%20Preprocessing)
 - Part 2 - [Regression](https://github.com/aryasoni98/Machine-Learning/tree/main/Regression)
@@ -8,5 +6,5 @@ Machine learning is a method of data analysis that automates analytical model bu
    - [Multiple Linear Regression](https://github.com/aryasoni98/MachineLearning/blob/main/Regression/multiple_linear_regression.ipynb)
    - [Polynomial Regression](https://github.com/aryasoni98/MachineLearning/blob/main/Regression/polynomial_regression.ipynb)
    - [SVR](https://github.com/aryasoni98/MachineLearning/blob/main/Regression/support_vector_regression_svr.ipynb)
-   - Decision Tree Regression
-   - Random Forest Regression
+   - [Decision Tree Regression](https://github.com/aryasoni98/MachineLearning/blob/main/Regression/decision_tree_regression.ipynb)
+   - [Random Forest Regression](https://github.com/aryasoni98/MachineLearning/blob/main/Regression/random_forest_regression.ipynb)
